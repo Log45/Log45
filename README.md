@@ -11,8 +11,10 @@ Besides my research at Brookhaven and work at Ecolab, I plan on researching and 
 Outside of that and multiple other projects I'm working on, I like to fence in my free time as well as play video games like Valorant, TFT, and Baldur's Gate 3, and I am beginning to build the habit of going to the gym to better my physical health. 
 
 Programming Languages: 
-- Proficient: Python, Java, LaTeX, C/C++, C#
-- Fundamentals: Typescript, Go, HTML, CSS, SQL, Assembly, Bash
+- Intermediate/Advanced: Python
+- Proficient: Java, C/C++, C#
+- Fundamentals: LaTeX, Typescript, Go, HTML, CSS, SQL, Assembly, Bash
+
 
 Frameworks/Libraries:
 - Proficient: PyTorch, Numpy, HuggingFace Transformers, Tkinter, Supervision, Ultralytics, OpenAI
