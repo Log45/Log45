@@ -2,7 +2,7 @@
 
 I am a third-year student at Rochester Institute of Technology pursuing a Bachelor's and Master's degree in Computer Science, with a minor in Applied Japanese Language and Culture.
 
-Presently, I am working as a part-time AI Software Engineer with Ecolab focused on the applications of Computer Vision for exciting products that are entering the pilot stage.
+During the school year, I was working as a part-time AI Software Engineer with Ecolab focused on the applications of Computer Vision for exciting products that are entering the pilot stage.
 
 Throughout Summer 2023, I worked as a SULI Intern at Brookhaven National Laboratory researching the use of open-source, frozen, large-language generative AI models to extract information from scientific literature to expedite the research of medical isotopes used to image and treat diseases like cancer. During my research, I used prompt engineering to compare models including Galactica, Llama-2, and Falcon in conjunction with different data filtering techniques to find what worked best at extracting accurate information from papers on isotope production.
 
